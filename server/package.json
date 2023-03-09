@@ -1,0 +1,22 @@
+{
+  "name": "task-manager-api",
+  "version": "1.0.0",
+  "description": "API and database setup for the application.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustafahalilovic/task-manager.git"
+  },
+  "author": "Mustafa Halilović",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mustafahalilovic/task-manager/issues"
+  },
+  "homepage": "https://github.com/mustafahalilovic/task-manager#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
